@@ -9,7 +9,8 @@ File Bridge is a set of smart contracts combined with a website to let people br
 
 ## Features
 
-- 
+- token bridge
+- swap
 
 ## Tech Stack
 
@@ -32,6 +33,7 @@ soon
 ## Authors
 
 - [@giangp_](https://twitter.com/giangp_)
+- [@Amir0reza](https://twitter.com/Amirreza_888)
 
 ## FAQ
 
