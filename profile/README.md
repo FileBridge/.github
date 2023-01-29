@@ -34,6 +34,7 @@ soon
 
 - [@giangp_](https://twitter.com/giangp_)
 - [@Amir0reza](https://twitter.com/Amirreza_888)
+- [@_raquelasecas](https://twitter.com/_raquelasecas)
 
 ## FAQ
 
