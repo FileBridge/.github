@@ -28,7 +28,7 @@ soon
 
 ## Twitter
 
-soon
+- [@filebridge](https://twitter.com/filebridge)
 
 ## Authors
 
