@@ -1,7 +1,7 @@
 
 # File Bridge 🌉
 
-Use File Bridge to get your tokens and NFTs from Filecoin blockchain to others!
+Use File Bridge to get your tokens from Filecoin blockchain to any other EVM supported blockchain & exchange your crypto by swapping another tokens.
 
 ## Appendix
 
