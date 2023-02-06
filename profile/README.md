@@ -20,7 +20,7 @@ File Bridge is a set of smart contracts combined with a website to let people br
     
 ## Demo
 
-soon
+https://ipfs.io/ipfs/QmPddWJCpmJAkCSBPpeLn17HaZ6qDZKK6cYByxL93w8LTL
 
 ## Documentation
 
