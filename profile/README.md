@@ -14,9 +14,9 @@ File Bridge is a set of smart contracts combined with a website to let people br
 
 ## Tech Stack
 
-**Client:** React.
+**Client:** React, Rainbowkit library, ethers.
 
-**Backend:** Node, Solidity.
+**Backend:** Chainstack Node, Solidity.
     
 ## Demo
 
@@ -35,6 +35,7 @@ soon
 - [@giangp_](https://twitter.com/giangp_)
 - [@Amir0reza](https://twitter.com/Amirreza_888)
 - [@_raquelasecas](https://twitter.com/_raquelasecas)
+- [@abdulqgg](https://twitter.com/abdulqgg)
 
 ## FAQ
 
